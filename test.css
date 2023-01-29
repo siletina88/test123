@@ -1,0 +1,11 @@
+.header {
+  font-size: 25px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 3px;
+  background: lightgray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
